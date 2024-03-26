@@ -9,6 +9,16 @@
 
 - ⚡ Um fato engraçado **é que comecei a programar para melhorar minha organização no trabalho e automatizar tarefas. Quem diria que minhas habilidades de programação acabariam sendo mais úteis do que uma xícara de café dupla numa segunda-feira de manhã!**
 
+### Portifolios:
+- [Power BI](https://github.com/ByancaValerie/PortifolioPowerBI)
+  
+![Resumebi](https://github.com/ByancaValerie/PortifolioPowerBI/assets/162714310/67e29dc1-a016-48e3-a635-57133bcb6b9a)
+
+- Power Apps (Em desenvolvimento)
+- Excel (Em desenvolvimento)
+- Codigos Python (Em desenvolvimento)
+- SQL (Em desenvolvimento)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/byanca-albach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/byanca-albach" height="30" width="40" /></a>
